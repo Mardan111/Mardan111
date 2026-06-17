@@ -1,7 +1,7 @@
 <h1>👋 Hi, I'm Mohammed Mardan Ali</h1>
 
 
-🌟 About Me
+<h3>🌟 About Me</h3>
 
 
 <p>I am a full-stack developer who builds reliable, maintanable web apps end-to-end. I'm trained 
