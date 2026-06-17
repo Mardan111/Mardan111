@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Mohammed Mardan Ali</h1>
+<h1 align="centre">👋 Hi, I'm Mohammed Mardan Ali</h1>
 
 
 <h3>🌟 About Me</h3>
