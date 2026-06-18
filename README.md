@@ -16,6 +16,7 @@ Databases: MongoDB, MySQL, Oracle SQL<br>
 • Build RESTful APIs and database-driven backend systems<br>
 • Optimize database queries and implement efficient data models<br>
 • Convert designs into clean, maintainable code<br>
+• Always learning, always building.<br>
 
 🎯 Interests: Full Stack Development | Cloud Technologies | Open Source Contributions<p>
 
