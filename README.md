@@ -8,7 +8,7 @@
 
 🛠️ Tech Stack:<br>
 Frontend: HTML5, CSS3, JavaScript<br>
-Backend: Java, Python<br>
+Backend: Java, Spring Boot, Python<br>
 Databases: MongoDB, MySQL, Oracle SQL<br>
 
 💡 What I do:<br>
